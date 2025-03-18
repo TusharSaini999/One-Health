@@ -13,7 +13,7 @@
 ## 🛠 Tech Stack
 
 - 🎨 **Frontend**: HTML, CSS, JavaScript  
-- ⚙️ **Backend**: Djongo 
+- ⚙️ **Backend**: Django 
 - 🗄 **Database**: SQLite
 - 🤖 **AI Integration**: AI-based predictive analysis  
 
